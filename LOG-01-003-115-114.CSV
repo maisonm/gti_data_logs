@@ -1,10 +1,7 @@
-Saturday,03,October,2020,12:03:22:00009-VCID:25414493ECE10FAE58-8070,VCDS Version: Release 20.4.1,Data version: 20200331 DS317.0
-1K0 907 115 B,,2.0l R4/4V TFSI     0040,
-
 ,Group A:,'003,,,,Group B:,'115,,,,Group C:,'114
 ,,Engine Speed,Mass Air Flow,Throttle Valve Angle,Ignition,,Engine Speed,Engine Load,Boost Pressure,Boost Pressure,,Engine Load,Engine Load,Engine Load,Boost Pressure
 ,TIME,(G28),Sensor (G70),,Timing Angle,TIME,(G28),,(specified),(actual),TIME,(specified),(spec. corrected),(actual Value),Control (N75)
-Marker,STAMP, /min, g/s, %, °BTDC,STAMP, /min, %, mbar, mbar,STAMP, %, %, %, %
+Marker,STAMP, /min, g/s, %, Â°BTDC,STAMP, /min, %, mbar, mbar,STAMP, %, %, %, %
 ,0.17,1800,7.31,6.7,15.8,0.29,1840,18.0,350.0,1040.0,0.04,94.7,94.7,17.3,0.0
 ,0.56,1840,7.08,6.7,15.8,0.68,1800,18.0,350.0,1030.0,0.43,94.7,94.7,18.0,0.0
 ,0.95,1800,7.50,6.7,15.8,1.07,1840,18.8,350.0,1030.0,0.81,94.7,94.7,18.8,0.0
